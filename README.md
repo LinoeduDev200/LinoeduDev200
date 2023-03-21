@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <div>
 
 <a href="https://www.instagram.com/eduardo.silva220/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&log" target="_blank" ></a>
-  <a href = "mailto:elsdeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:elsdeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="linkedin.com/in/eduardo-lino-silva-0ba615235" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" > </a>
 
 </div>
