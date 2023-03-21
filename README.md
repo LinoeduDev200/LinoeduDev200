@@ -4,11 +4,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I am currently studying ...
-- 🌱 I’m currently learning ...
+- 🔭 Languages ​​I learned ...
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"  />
+</div>
+- 🌱 I’m currently learning ...
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 </div>
 
 - 👯 I’m looking to collaborate on ...
