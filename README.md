@@ -1,8 +1,9 @@
-### Hi there 👋
+<h3> Hello, I'm Eduardo Lino! 🌱 Welcome to my GitHub profile! 👋🏻 </h3> 
 
-**LinoeduDev200/LinoeduDev200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+
 
 - 🔭 Programming languages ​​I know, nothing advanced...
 <div>
@@ -16,20 +17,22 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 </div>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
+<h3> - 📫 How to reach me: ... <br> </h3>
 
 <div>
 <a href="https://github.com/LinoeduDev200">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinoeduDev200&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinoeduDev200&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
+
+
+<h3> 🌐 Redes Sociais: <br></h3>
 
 <div align="center">
 
