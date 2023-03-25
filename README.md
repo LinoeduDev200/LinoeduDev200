@@ -17,7 +17,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 </div>
 
+## GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=AmaNDSG&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmaNDSG&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaNDSG&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+#![](https://github-trophies.vercel.app/?username=AmaNDSG&theme=matrix&no-frame=false&no-bg=false&margin-w=4)-->
+
+##
+![Visitor Count](https://profile-counter.glitch.me/LinoeduDev200/count.svg)
 
 
 
