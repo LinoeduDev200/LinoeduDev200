@@ -38,4 +38,4 @@
 ##
 ![Visitor Count](https://profile-counter.glitch.me/LinoeduDev200/count.svg)  
   
-![Snake animation](https://github.com/LinoeduDev200/LinoeduDev200/blob/output/github-contribution-grid-snake.svg)
+
