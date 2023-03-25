@@ -18,14 +18,8 @@
 </div>
 
 ## GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=AmaNDSG&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmaNDSG&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaNDSG&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#![](https://github-trophies.vercel.app/?username=AmaNDSG&theme=matrix&no-frame=false&no-bg=false&margin-w=4)-->
 
-##
-![Visitor Count](https://profile-counter.glitch.me/LinoeduDev200/count.svg)
 
 
 
@@ -48,6 +42,8 @@
 <a href = "mailto:elsdeveloper220@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/eduardo-lino-silva-0ba615235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-  
+
+##
+![Visitor Count](https://profile-counter.glitch.me/LinoeduDev200/count.svg)  
   
 ![Snake animation](https://github.com/LinoeduDev200/LinoeduDev200/blob/output/github-contribution-grid-snake.svg)
