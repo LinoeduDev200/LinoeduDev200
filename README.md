@@ -1,4 +1,5 @@
-<h3> Hello, I'm Eduardo Lino! 🌱 Welcome to my GitHub profile! 👋🏻 </h3> 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff=35&center=true&vCenter=true&width=1000&lines=Ola!+Eu+sou+o+Edu;Tenho+44+anos+;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Futuro+Desenvolvedor+Web;Seja+Bem-Vindo(a)+:%29)](https://git.io/typing-svg)
+ 
 
 <br>
 <br>
@@ -17,19 +18,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />
 </div>
 
-## GitHub Stats :
-<br>
-<h3> - 📫 How to reach me: ... <br> </h3>
-
 <div>
 <a href="https://github.com/LinoeduDev200">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinoeduDev200&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinoeduDev200&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
-
-<h3> 🌐 Redes Sociais: <br></h3>
+## GitHub Stats :
+<br>
+<h3> - 📫 How to reach me: ... <br> </h3>
 
 <div align="center">
 
