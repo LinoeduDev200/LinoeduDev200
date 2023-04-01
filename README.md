@@ -38,7 +38,7 @@
 ##
 ![Visitor Count](https://profile-counter.glitch.me/LinoeduDev200/count.svg)  <br>
  
- ![snake gif](https://github.com/LinoeduDev200/LinoeduDev200/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/LinoeduDev200/LinoeduDev200/blob/output/github-contribution-grid-snake.svg)-->
  
   
 
