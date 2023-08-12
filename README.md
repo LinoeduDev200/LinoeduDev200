@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff=35&center=true&vCenter=true&width=1000&lines=Ola!+Eu+sou+o+Edu;Tenho+44+anos+;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Futuro+Desenvolvedor+Web;Seja+Bem-Vindo(a)+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffffff=35&center=true&vCenter=true&width=1000&lines=Ola!+Eu+sou+o+Edu;Tenho+44+anos+;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Futuro+Desenvolvedor+Web;Seja+Bem-Vindo(a)+:%29)](https://git.io/typing-svg)
  
 
 <br>
@@ -12,11 +12,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="30"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  width="30" height="30"  />
+ 
 </div>
 - 🌱 I’m currently learning ...
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30" height="30" />
+          
 </div>
 
 <div>
